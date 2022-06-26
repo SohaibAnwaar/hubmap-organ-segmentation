@@ -1,2 +1,5 @@
 hubmap-organ-segmentation*
 .ipynb_checkpoints*
+*.pyc*
+*unet/logs/*
+*unet/weights/*
